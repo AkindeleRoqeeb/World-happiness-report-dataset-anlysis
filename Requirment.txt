@@ -4,4 +4,5 @@ pandas
 seaborn
 matplotlib
 
-# code space:
+ code space:
+ Jupiter notebook or google colab
